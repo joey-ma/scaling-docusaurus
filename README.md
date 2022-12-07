@@ -1,6 +1,7 @@
 # scaling-docusaurus
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+There were some changes added to a various parts of the website. See if you can catch them. Or start building your own website!
 
 ### Installation
 
